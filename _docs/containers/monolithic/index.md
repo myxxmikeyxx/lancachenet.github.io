@@ -19,6 +19,7 @@ This container is designed to support any game that uses HTTP and also supports 
 - Battle.net (Hearthstone, Starcraft 2, Overwatch)
 - Frontier Launchpad (Elite Dangerous, Planet Coaster)
 - Uplay (Ubisoft)
+- Epic Games Launcher
 - Windows Updates
 
 This is the best container to use for all game caching and should be used for Steam in preference to the lancachenet/steamcache and lancachenet/generic containers.
